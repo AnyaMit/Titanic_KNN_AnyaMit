@@ -1,0 +1,2 @@
+# Titanic_KNN_AnyaMit
+FrontlineAnalytics_KNearestNeighbor_Model for Titanic 
